@@ -1,0 +1,14 @@
+.gallery
+{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    align-content: center;
+}
+.gallery img
+{
+    border: 3px solid black;
+    box-shadow: 3px 3px 8px 0px rgba(0,0,0,0.3); 
+    margin: 10px;
+    max-width: 20vw;
+}

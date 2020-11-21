@@ -1,0 +1,27 @@
+body
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.media
+{
+    display: flex;
+    flex-flow: row;
+    align-items: flex-start;
+    max-width: 20vw;
+    max-height: 10vh;
+}
+.media-object
+{
+    height: 2vh;
+}
+.media-heading
+{
+    margin-top: 0%;
+}
+.media-body
+{
+    
+    padding: 0 0 0 1em;
+}
